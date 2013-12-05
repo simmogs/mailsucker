@@ -1,24 +1,16 @@
 # Mailsucker
 
-TODO: Write a gem description
+Runs an SMTP server and sticks the mail down a black hole
 
-## Installation
+## Running
 
-Add this line to your application's Gemfile:
-
-    gem 'mailsucker'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
+Install it yourself as:
 
     $ gem install mailsucker
 
-## Usage
+And then run with
 
-TODO: Write usage instructions here
+    $ mailsucker
 
 ## Contributing
 
